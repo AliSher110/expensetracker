@@ -1,4 +1,4 @@
-# ECPENSE TRACKER
+# EXPENSE TRACKER
 ## Short Description
 It is an Expense Tracker App, I created this App for practicing my skills and logics. I created this App using javascript liberary React Js and redux.
 ## Main Display
