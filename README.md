@@ -1,3 +1,21 @@
+# ECPENSE TRACKER
+## Short Description
+It is an Expense Tracker App, I created this App for practicing my skills and logics. I created this App using javascript liberary React Js and redux.
+## Main Display
+![1](https://user-images.githubusercontent.com/109715275/219465665-e401ec3b-9b9a-4124-aa8a-afdf50365af4.png)
+
+## Balance Component
+![Bal](https://user-images.githubusercontent.com/109715275/219465673-c5fba849-22bf-4ebd-8d22-e36830c9f427.png)
+
+## Transaction History Component
+![TH](https://user-images.githubusercontent.com/109715275/219465674-8fb97481-d276-4030-abf6-838fac2505a2.png)
+
+## Add New Transaction
+![Add](https://user-images.githubusercontent.com/109715275/219465669-b3cb5d51-3687-4d2b-b921-3bf6a6c465a8.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
